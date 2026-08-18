@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# 本站点不希望被任何搜索引擎收录（页面已含 noindex 指令）
